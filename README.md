@@ -1,5 +1,5 @@
 # Neural-Network-for-Face-Pose-Recognition
-Neural Network for Face Pose Recognition with Tensorflow 2.0
+Neural Network for Face Pose Recognition with Tensorflow 2.0 Keras
 
 ## Enviroment
 CPU : i5-8265U   
